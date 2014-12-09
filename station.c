@@ -12,7 +12,7 @@
  * Changes: Only put code to places marked with "FILL HERE"
  * Date: 12/06/2014
  *
- *    */
+ *
 /*--------------------------------------------------------------------*/
 /* total number of interfaces */
 int numfaces;

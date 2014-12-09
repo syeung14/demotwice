@@ -1,0 +1,50 @@
+case 1
+======
+% hub net34
+% hub net35
+% hub net36
+
+% station kepler 60 0
+
+
+case 2
+======
+% hub net34
+% hub net35
+% hub net36
+
+% station kepler 60 0
+% station router 60 0
+
+
+case 3
+======
+% hub net34
+% hub net35
+% hub net36
+
+% station kepler 60 0
+% station router 60 0
+
+
+case 4
+======
+% hub net34
+% hub net35
+% hub net36
+
+% station kepler 60 1
+% station router 60 1
+
+
+case 5
+======
+% hub net34
+% hub net35
+% hub net36
+% hub net37
+
+% station kepler 60 1
+% station router 60 1
+% station tera   60 1
+% station peca   60 1
