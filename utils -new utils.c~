@@ -16,7 +16,7 @@
 /* hardware broadcast address */
 HwAddr BCASTADDR = { 0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF };
 /*--------------------------------------------------------------------*/
-/*fsfsafs  sfsfs f ffsf*/
+
 /*----------------------------------------------------------------*/
 /* info on each host */
 typedef struct __host {
